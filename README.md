@@ -22,16 +22,27 @@ Atualmente estou focado em me especializar na camada de front-end, aprofundando 
 
 ---
 
-## 📈 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trovarelli&show_icons=true&theme=radical)
+## 📊 Estatísticas
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trovarelli&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trovarelli&layout=compact&theme=radical)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+</div>
 
 ---
 
-## 📫 Onde me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/trovarelli)  
-- 📧 Email: **seuemail@dominio.com**  
+## 🌍 Onde me encontrar
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Trovarelli)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trovarelli)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@dominio.com)
+
+</div>
 
 ---
 
