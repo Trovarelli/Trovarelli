@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o José Trovarelli Neto
+# 👋 Olá, meu nome é José Trovarelli Neto
 
 Sou **desenvolvedor full-stack** com foco em **React/Next.js** e experiência também em **Golang** no back-end.  
 Iniciei minha carreira em 2021 e venho atuando em produtos **B2B e B2C**, sempre buscando entregar **performance**, **boa experiência do usuário** e **código de qualidade**.
