@@ -11,7 +11,7 @@ Atualmente estou focado em me especializar na camada de front-end, aprofundando 
 - **Front-end:** React, Next.js, Vue.js, TypeScript, Vite, TailwindCSS  
 - **Back-end:** Golang, Node.js  
 - **Banco de dados & Infra:** PostgreSQL, MySQL, Docker, MongoDB  
-- **Outros:** Git/GitHub, APIs REST, boas práticas de DX  
+- **Outros:** Git/GitHub, Bitbucket, APIs REST, boas práticas de DX  
 
 ---
 
@@ -37,13 +37,14 @@ Atualmente estou focado em me especializar na camada de front-end, aprofundando 
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Trovarelli)
-[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/seu-usuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trovarelli)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Trovarelli)  
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/domtec-sistemas/workspace/overview/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trovarelli)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@dominio.com)
 
 </div>
 
 ---
 
-✨ Sempre buscando evoluir e aprender novas tecnologias para criar produtos que façam diferença.
+✨ Uso **GitHub** para meus projetos pessoais abertos e **Bitbucket** no workspace da **Domtec Sistemas** para projetos privados.  
+Sempre buscando evoluir e aprender novas tecnologias para criar produtos que façam diferença.
