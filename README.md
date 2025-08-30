@@ -25,6 +25,7 @@ Atualmente estou focado em me especializar na camada de front-end, aprofundando 
 ## 📈 Estatísticas do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trovarelli&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trovarelli&layout=compact&theme=radical)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ---
 
