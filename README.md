@@ -1,9 +1,16 @@
 # 👋 Olá, meu nome é José Trovarelli Neto
 
-Sou **desenvolvedor full-stack** com foco em **React/Next.js** e experiência também em **Golang** no back-end.  
-Iniciei minha carreira em 2021 e venho atuando em produtos **B2B e B2C**, sempre buscando entregar **performance**, **boa experiência do usuário** e **código de qualidade**.
+Sou **desenvolvedor full-stack** desde 2021, com experiência sólida no desenvolvimento de produtos B2B e B2C. Minha trajetória envolve tanto o front-end (React/Next.js) quanto o backend (Node.js e principalmente Golang).
 
-Atualmente estou focado em me especializar na camada de front-end, aprofundando meus conhecimentos em desenvolvimento web e mobile.
+Nos últimos anos, tive destaque em projetos de:
+
+- Integração com a API oficial do WhatsApp utilizando BullMQ para mensageria em grande escala.
+
+- Otimização de processamento em Golang, reduzindo o tempo de execução de rotas críticas de 1 minuto para apenas 5 segundos com técnicas de delete + copy no PostgreSQL.
+
+- Desenvolvimento de dashboards de BI e sistemas de integração corporativos, sempre com foco em performance e confiabilidade.
+
+🚀 Atualmente, estou focado em me especializar em backend, aproveitando minha experiência com Golang para criar soluções escaláveis e de alta performance, sem deixar de lado minha vivência em front-end.
 
 ---
 
