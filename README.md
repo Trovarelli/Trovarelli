@@ -1,57 +1,69 @@
-# 👋 Olá, eu sou o José Trovarelli Neto
+<h1 align="center">👋 Olá, eu sou o José Trovarelli Neto</h1>
 
-Sou **desenvolvedor full-stack** desde 2021, com experiência sólida em produtos **B2B** e **B2C**. Atuo tanto no **front-end** (React/Next.js) quanto no **back-end** (Node.js e, principalmente, **Golang**).
+<h3 align="center">Software Engineer | Full Stack Developer (React & Golang)</h3>
 
-Ao longo da minha trajetória, tive destaque em:
+<p align="center">
+  Sou um Engenheiro de Software Full Stack atuando na área desde 2021. Minha especialidade é unir a criação de interfaces modernas e intuitivas no <strong>Front-end (React/Next.js)</strong> com a construção de arquiteturas escaláveis e de alta performance no <strong>Back-end (Golang e Node.js)</strong>.
+</p>
 
-- 🔁 **Integração com a API oficial do WhatsApp** usando **BullMQ** para mensageria em grande escala.
-- ⚙️ **Otimização de performance em Golang**, reduzindo o tempo de rotas críticas de **1 minuto para ~5 segundos** com estratégias de `DELETE + COPY` em **PostgreSQL**.
-- 📊 **Desenvolvimento de dashboards de BI** e sistemas de integração corporativa, sempre com foco em **performance, confiabilidade e boas práticas de DX**.
+---
 
-🚀 Hoje estou mais focado em **back-end**, aproveitando minha experiência com Golang para criar soluções **escaláveis e de alta performance**, sem abandonar a bagagem de front-end que me ajuda a pensar o produto de ponta a ponta.
+## 🚀 Destaques da minha trajetória
+
+Ao longo da minha carreira em produtos **B2B e B2C**, desenvolvi um forte foco em performance, confiabilidade e DX (Developer Experience). Meus principais cases incluem:
+
+- ⚡ **Otimização Extrema (Golang):** Refatoração de pipelines legados e rotas críticas, reduzindo o tempo de processamento de **1 minuto para ~5 segundos** utilizando estratégias avançadas de `DELETE + COPY` no PostgreSQL.
+- 🔁 **Arquitetura de Mensageria:** Engenharia de integração com a API Oficial do WhatsApp gerenciando alto volume de mensagens com **BullMQ** (Node.js) para garantir estabilidade e resiliência.
+- 📊 **Interfaces Complexas:** Construção de dashboards de Business Intelligence (BI) responsivos, acessíveis e focados em usabilidade e Core Web Vitals.
+
+> Hoje, meu foco principal é o Front-end (React/Next.js) e a evolução do produto. Utilizo minha sólida experiência em Back-end e Golang para garantir fluidez nas integrações, arquiteturas escaláveis e performance de ponta a ponta.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-- **Front-end:** React, Next.js, Vue.js, TypeScript, Vite, TailwindCSS  
-- **Back-end:** Golang, Node.js  
-- **Banco de dados & Infra:** PostgreSQL, MySQL, MongoDB, Docker  
-- **Outros:** Git/GitHub, Bitbucket, APIs REST, boas práticas de DX  
+### Front-end
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Back-end & Dados
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📌 Alguns Projetos
+## 📌 Projetos em Destaque
 
-- [🌐 Portfólio](https://github.com/Trovarelli/portifolio) – Site pessoal em Next.js  
-- ⚡ Integrações em Golang – Serviços internos para **transferência de arquivos**, **autenticação** e comunicação entre sistemas  
-- 📱 Aplicações B2B/B2C – Experiência em produtos com foco em **usabilidade**, **observabilidade** e **performance**  
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trovarelli&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trovarelli&layout=compact&theme=radical)
-
-</div>
+- [🌐 Portfólio Pessoal](https://github.com/Trovarelli/portifolio) – Construído com Next.js e TailwindCSS para apresentar minha trajetória.
+- ⚡ **Serviços Internos (Golang):** Desenvolvimento de microsserviços para transferência de arquivos, autenticação (JWT) e comunicação entre sistemas corporativos.
+- 📱 **Aplicações B2B:** Participação ativa no ciclo de vida de produtos corporativos, desde a ideação com UI/UX até a entrega em produção com foco em observabilidade.
 
 ---
 
 ## 🌍 Onde me encontrar
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Trovarelli)  
-[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/domtec-sistemas/workspace/overview/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-trovarelli-neto-31b2801b9/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jtneto.dev@gmail.com)
-
+  <a href="https://www.linkedin.com/in/jos%C3%A9-trovarelli-neto-31b2801b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jtneto.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://bitbucket.org/domtec-sistemas/workspace/overview/">
+    <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket"/>
+  </a>
 </div>
 
----
+<br>
 
-✨ Uso o **GitHub** para projetos pessoais e abertos, e o **Bitbucket** (workspace da **Domtec Sistemas**) para projetos privados.  
-Estou sempre buscando evoluir, aprender novas tecnologias e entregar soluções que realmente façam diferença no dia a dia das pessoas e das empresas.
+> ✨ *Nota:* Utilizo o **GitHub** principalmente para projetos pessoais e open-source. Minha atuação corporativa principal (projetos privados) ocorre no **Bitbucket** pela **Domtec Sistemas**.
+
+<p align="center">
+  <i>Além de codar, nas horas vagas você me encontra jogando uma boa campanha de D&D, explorando o Path of Exile 2 ou focado nos treinos na academia. 🎲🏋️‍♂️</i>
+</p>
