@@ -1,9 +1,9 @@
 <h1 align="center">👋 Olá, eu sou o José Trovarelli Neto</h1>
 
-<h3 align="center">Software Engineer | Full Stack Developer (React & Golang)</h3>
+<h3 align="center">Software Engineer | Backend Specialist (Golang & Node.js) | Full Stack Experience</h3>
 
 <p align="center">
-  Sou um Engenheiro de Software Full Stack atuando na área desde 2021. Minha especialidade é unir a criação de interfaces modernas e intuitivas no <strong>Front-end (React/Next.js)</strong> com a construção de arquiteturas escaláveis e de alta performance no <strong>Back-end (Golang e Node.js)</strong>.
+  Sou um Engenheiro de Software Full Stack com sólida experiência na construção de sistemas de alta performance. Minha especialidade é o desenvolvimento de arquiteturas escaláveis no Back-end (Golang e Node.js), garantindo que a infraestrutura suporte grandes volumes de dados com eficiência. Além disso, utilizo minha base em React/Next.js para entregar produtos completos, onde a performance começa no servidor e termina na interface do usuário.
 </p>
 
 ---
@@ -17,6 +17,10 @@ Ao longo da minha carreira em produtos **B2B e B2C**, desenvolvi um forte foco e
 - 📊 **Interfaces Complexas:** Construção de dashboards de Business Intelligence (BI) responsivos, acessíveis e focados em usabilidade e Core Web Vitals.
 
 > Hoje, meu foco principal é o Front-end (React/Next.js) e a evolução do produto. Utilizo minha sólida experiência em Back-end e Golang para garantir fluidez nas integrações, arquiteturas escaláveis e performance de ponta a ponta.
+
+---
+
+> Atualmente, concentro minha evolução técnica em arquitetura de microsserviços, mensageria e otimização de bancos de dados. Acredito que o bom código é aquele que resolve problemas complexos de forma simples, escalável e extremamente rápida.
 
 ---
 
@@ -65,5 +69,5 @@ Ao longo da minha carreira em produtos **B2B e B2C**, desenvolvi um forte foco e
 > ✨ *Nota:* Utilizo o **GitHub** principalmente para projetos pessoais e open-source. Minha atuação corporativa principal (projetos privados) ocorre no **Bitbucket** pela **Domtec Sistemas**.
 
 <p align="center">
-  <i>Além de codar, nas horas vagas você me encontra jogando uma boa campanha de D&D, explorando o Path of Exile 2 ou focado nos treinos na academia. 🎲🏋️‍♂️</i>
+  <i>Além de codar, nas horas vagas você me encontra jogando uma boa campanha de D&D, brincando no Path of Exile 2 ou nos treinos na academia. 🎲🏋️‍♂️</i>
 </p>
