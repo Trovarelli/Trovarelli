@@ -1,30 +1,46 @@
-<h1 align="center">👋 Olá, eu sou o José Trovarelli Neto</h1>
+<h1 align="center">José Trovarelli Neto</h1>
 
-<h3 align="center">Software Engineer | Backend Specialist (Golang & Node.js) | Full Stack Experience</h3>
+<h3 align="center">Software Engineer | Backend & System Architecture</h3>
 
 <p align="center">
-  Sou um Engenheiro de Software Full Stack com sólida experiência na construção de sistemas de alta performance. Minha especialidade é o desenvolvimento de arquiteturas escaláveis no Back-end (Golang e Node.js), garantindo que a infraestrutura suporte grandes volumes de dados com eficiência. Além disso, utilizo minha base em React/Next.js para entregar produtos completos, onde a performance começa no servidor e termina na interface do usuário.
+  Engenheiro de Software focado na construção de sistemas escaláveis e de alta performance. Minha atuação principal é no Back-end (Golang e Node.js), projetando arquiteturas resilientes e sustentáveis. Acredito que o desenvolvimento de software vai muito além do código: envolve comunicação clara, trabalho em equipe e uma cultura sólida de boas práticas para garantir a manutenibilidade do produto a longo prazo. Minha bagagem Full Stack me permite ter uma visão de ponta a ponta, alinhando a eficiência da infraestrutura às necessidades da interface e do negócio.
 </p>
 
 ---
 
-## 🚀 Destaques da minha trajetória
+## Filosofia Técnica e Foco
 
-Ao longo da minha carreira em produtos **B2B e B2C**, desenvolvi um forte foco em performance, confiabilidade e DX (Developer Experience). Meus principais cases incluem:
+Em meu dia a dia, priorizo a qualidade do código, a análise cuidadosa de *trade-offs* e a experiência do desenvolvedor (DX). Atualmente, concentro minha evolução contínua em:
 
-- ⚡ **Otimização Extrema (Golang):** Refatoração de pipelines legados e rotas críticas, reduzindo o tempo de processamento de **1 minuto para ~5 segundos** utilizando estratégias avançadas de `DELETE + COPY` no PostgreSQL.
-- 🔁 **Arquitetura de Mensageria:** Engenharia de integração com a API Oficial do WhatsApp gerenciando alto volume de mensagens com **BullMQ** (Node.js) para garantir estabilidade e resiliência.
-- 📊 **Interfaces Complexas:** Construção de dashboards de Business Intelligence (BI) responsivos, acessíveis e focados em usabilidade e Core Web Vitals.
+- **Arquitetura de Sistemas:** Microsserviços, modelagem de domínio e design de sistemas distribuídos.
+- **Boas Práticas e Qualidade:** Código limpo, testabilidade, refatoração contínua e revisões de código (Code Review) focadas na evolução técnica do time.
+- **Performance e Resiliência:** Otimização de consultas, gerenciamento de concorrência e processamento assíncrono.
+- **Cultura e Comunicação:** Valorizo a transparência, a maturidade para debater soluções e o senso de dono (*ownership*). Acredito que um ambiente colaborativo, onde há facilidade de interlocução e troca contínua de conhecimento, é o verdadeiro motor para entregas consistentes.
 
-> Hoje, meu foco principal é o Front-end (React/Next.js) e a evolução do produto. Utilizo minha sólida experiência em Back-end e Golang para garantir fluidez nas integrações, arquiteturas escaláveis e performance de ponta a ponta.
+Acredito que a melhor solução arquitetural é aquela que equilibra eficiência com simplicidade, reduzindo a complexidade acidental e facilitando a colaboração entre os desenvolvedores.
+
+Acredito que a melhor solução arquitetural é aquela que equilibra eficiência com simplicidade, reduzindo a complexidade acidental e facilitando a colaboração entre os desenvolvedores.
 
 ---
 
-> Atualmente, concentro minha evolução técnica em arquitetura de microsserviços, mensageria e otimização de bancos de dados. Acredito que o bom código é aquele que resolve problemas complexos de forma simples, escalável e extremamente rápida.
+## Destaques de Engenharia
+
+Ao longo da minha trajetória atuando em produtos B2B e B2C, tenho colaborado na resolução de desafios técnicos e estruturais, incluindo:
+
+- **Otimização e Vazão de Dados (Golang & PostgreSQL):** Refatoração estrutural de pipelines legados e rotas críticas. Substituição de operações ineficientes por estratégias de processamento em lote e manipulação otimizada de banco de dados, reduzindo drasticamente o tempo de execução e o consumo de recursos computacionais.
+- **Arquitetura Orientada a Eventos:** Engenharia de integrações com alto volume de requisições concorrentes (como a API Oficial do WhatsApp). Implementação de filas e mensageria (BullMQ/Node.js) para garantir controle de fluxo, estabilidade e resiliência a falhas em momentos de pico.
+- **Visão Sistêmica de Produto:** Participação ativa em todo o ciclo de vida do software, desde o desenho da arquitetura junto aos stakeholders até a entrega e monitoramento em produção, prestando suporte técnico ao time e garantindo a observabilidade do sistema.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
+
+### Back-end, Dados & Infraestrutura
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Front-end
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -33,24 +49,9 @@ Ao longo da minha carreira em produtos **B2B e B2C**, desenvolvi um forte foco e
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Back-end & Dados
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
 ---
 
-## 📌 Projetos em Destaque
-
-- [🌐 Portfólio Pessoal](https://github.com/Trovarelli/portifolio) – Construído com Next.js e TailwindCSS para apresentar minha trajetória.
-- ⚡ **Serviços Internos (Golang):** Desenvolvimento de microsserviços para transferência de arquivos, autenticação (JWT) e comunicação entre sistemas corporativos.
-- 📱 **Aplicações B2B:** Participação ativa no ciclo de vida de produtos corporativos, desde a ideação com UI/UX até a entrega em produção com foco em observabilidade.
-
----
-
-## 🌍 Onde me encontrar
+## Onde me encontrar
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jos%C3%A9-trovarelli-neto-31b2801b9/">
@@ -66,8 +67,8 @@ Ao longo da minha carreira em produtos **B2B e B2C**, desenvolvi um forte foco e
 
 <br>
 
-> ✨ *Nota:* Utilizo o **GitHub** principalmente para projetos pessoais e open-source. Minha atuação corporativa principal (projetos privados) ocorre no **Bitbucket** pela **Domtec Sistemas**.
+> **Nota sobre o GitHub:** Minha atuação corporativa principal e o desenvolvimento de arquiteturas de produção ocorrem em repositórios privados no **Bitbucket** através da **Domtec Sistemas**. Utilizo este perfil no GitHub majoritariamente para projetos pessoais, estudos e testes de conceito arquiteturais.
 
 <p align="center">
-  <i>Além de codar, nas horas vagas você me encontra jogando uma boa campanha de D&D, brincando no Path of Exile 2 ou nos treinos na academia. 🎲🏋️‍♂️</i>
+  <i>Fora do ambiente de desenvolvimento, busco equilibrar a rotina com treinos de musculação, narrando campanhas de RPG de mesa ou explorando jogos no estilo ARPG.</i>
 </p>
